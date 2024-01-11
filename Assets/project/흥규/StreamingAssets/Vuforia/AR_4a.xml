@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="christmas_scaled" size="3.000000 1.519149" />
+    <ImageTarget name="ai70" size="3.000000 4.405000" />
+  </Tracking>
+</QCARConfig>
